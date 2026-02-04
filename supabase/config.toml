@@ -1,1 +1,4 @@
 project_id = "okofndgniqmswsjjecmz"
+
+[functions.mongodb]
+verify_jwt = false
